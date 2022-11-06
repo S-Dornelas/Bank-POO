@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\bin\Debug\net6.0\Bank POO.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\bin\Debug\net6.0\Bank POO.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\bin\Debug\net6.0\Bank POO.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\bin\Debug\net6.0\Bank POO.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\bin\Debug\net6.0\Bank POO.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\obj\Debug\net6.0\Bank POO.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\obj\Debug\net6.0\Bank POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\obj\Debug\net6.0\Bank POO.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\obj\Debug\net6.0\Bank POO.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\obj\Debug\net6.0\Bank POO.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\obj\Debug\net6.0\Bank POO.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\obj\Debug\net6.0\refint\Bank POO.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\obj\Debug\net6.0\Bank POO.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\obj\Debug\net6.0\Bank POO.genruntimeconfig.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Bank POO\Bank POO\obj\Debug\net6.0\ref\Bank POO.dll
